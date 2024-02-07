@@ -1,3 +1,4 @@
+Stripped down lightweight fork concept based loosely around code developed by Syndicate. Conceptual deployment untested at this time. 
 # syndicate-farcaster-frame-starter
 
 A starter for using https://frame.syndicate.io/ with Farcaster Frames
